@@ -1,5 +1,4 @@
 # Survival-Shooter
-DILo Chapt 7
 
 # How to Install / Play
 1. Go to [Release tab] and download the zip.
